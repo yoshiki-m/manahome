@@ -39,6 +39,7 @@ const mainFeaturedPost = {
 const social={ name: 'Twitter', icon: TwitterIcon }
 const myHistory="保有資格：ITストラテジスト、システムアーキテクト、応用情報技術者\n"
               +"　　　　　日商簿記2級、2級FP技能士、宅建、マーケティングビジネス実務検定B級\n"
+              +"　　　　　Associate Cloud Engineer\n"
               +"得意分野：建築全般、不動産、マーケティング、Webシステム開発、データサイエンス\n"
               +"得意技術：Python,JavaScript,React,HTML,CSS,GCP\n\n"
               +"2010年　京都大学　工学部建築学科卒\n"
